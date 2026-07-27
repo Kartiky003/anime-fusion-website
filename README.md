@@ -1,4 +1,4 @@
-# 🎌 Anime Website
+# 🎌 Anime-fusion-Website
 
 A responsive Anime Website built using **HTML** and **CSS**. This project showcases a modern anime-themed user interface with a clean layout and responsive design.
 
